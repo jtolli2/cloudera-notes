@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mrunit.mapreduce.MapDriver"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mrunit.mapreduce.ReduceDriver"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mrunit.mapreduce.MapReduceDriver"/>
+<fullyQualifiedTypeName name="com.revature.map.WordMapper"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+</qualifiedTypeNameHistroy>
